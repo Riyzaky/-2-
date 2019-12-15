@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\UserX\Desktop\Kurs\Source.cpp(62,10): warning C4101: s1: неиспользованная локальная переменная
+C:\Users\UserX\Desktop\Kurs\Source.cpp(309,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Kurs.vcxproj -> C:\Users\UserX\Desktop\Kurs\Debug\Kurs.exe
